@@ -1,0 +1,2 @@
+space_titanic： https://www.kaggle.com/competitions/spaceship-titanic
+titanic: kaggle.com/competitions/spaceship-titanic
