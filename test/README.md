@@ -1,0 +1,2 @@
+# Kaggle
+Kaggleのコンペや練習用のnotebookを蓄積する用のレポジトリ
